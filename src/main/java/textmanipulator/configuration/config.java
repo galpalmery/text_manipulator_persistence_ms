@@ -1,9 +1,9 @@
-package harel.interview.textmanipulator.configuration;
+package textmanipulator.configuration;
 
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;
-import harel.interview.textmanipulator.repository.DataPersistenceService;
-import harel.interview.textmanipulator.services.PersistToDBApplicationService;
+import textmanipulator.repository.DataPersistenceService;
+import textmanipulator.services.PersistToDBApplicationService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

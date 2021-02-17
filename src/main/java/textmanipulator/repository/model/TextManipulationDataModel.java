@@ -1,4 +1,4 @@
-package harel.interview.textmanipulator.repository.model;
+package textmanipulator.repository.model;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

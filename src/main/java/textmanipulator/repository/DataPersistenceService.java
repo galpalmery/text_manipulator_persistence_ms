@@ -1,6 +1,6 @@
-package harel.interview.textmanipulator.repository;
+package textmanipulator.repository;
 
-import harel.interview.textmanipulator.repository.model.TextManipulationDataModel;
+import textmanipulator.repository.model.TextManipulationDataModel;
 import org.springframework.beans.factory.annotation.Autowired;
 
 public class DataPersistenceService {

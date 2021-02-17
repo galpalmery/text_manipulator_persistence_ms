@@ -1,10 +1,9 @@
-package harel.interview.textmanipulator.controllers;
+package textmanipulator.controllers;
 
-import harel.interview.textmanipulator.repository.model.TextManipulationDataModel;
-import harel.interview.textmanipulator.services.PersistToDBApplicationService;
+import textmanipulator.repository.model.TextManipulationDataModel;
+import textmanipulator.services.PersistToDBApplicationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;

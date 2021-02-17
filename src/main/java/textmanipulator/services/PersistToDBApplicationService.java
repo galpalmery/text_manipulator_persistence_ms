@@ -1,6 +1,6 @@
-package harel.interview.textmanipulator.services;
+package textmanipulator.services;
 
-import harel.interview.textmanipulator.repository.DataPersistenceService;
+import textmanipulator.repository.DataPersistenceService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 

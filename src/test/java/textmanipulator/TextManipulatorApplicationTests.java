@@ -1,7 +1,7 @@
-package harel.interview.textmanipulator;
+package textmanipulator;
 
-import harel.interview.textmanipulator.repository.ITextManipulationRepository;
-import harel.interview.textmanipulator.repository.model.TextManipulationDataModel;
+import textmanipulator.repository.ITextManipulationRepository;
+import textmanipulator.repository.model.TextManipulationDataModel;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
